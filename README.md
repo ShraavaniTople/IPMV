@@ -1,7 +1,7 @@
 # IPMV
 The YOLO (You Only Look Once) algorithm is an object detection algorithm that divides an  image into a grid and predicts bounding boxes and class probabilities for each grid cell. YOLO is  known for its speed and efficiency as it processes the entire image in a single forward pass  through the neural network.
 
-# IPMV
+# IPMV CODE YOLO 
 ! gdown --id 1QFPS1EHdwakTaPSY1zbzf_17GX3GGmr1   #coco names file
 ! gdown --id 1w3VWBf4tP8WzDhzD_gpiNWiD-sW8V8mt   #Weight files
 ! gdown --id 1dAjX0vDKOThxpPOo-065y89fxsqlUve1  #yolo cfg files
